@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751499857535",
+    "project_id": "tts-tasking-for-smuct",
+    "storage_bucket": "tts-tasking-for-smuct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751499857535:android:f4037e20f86112b54cf94a",
+        "android_client_info": {
+          "package_name": "com.example.tasking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751499857535-7o68j5qa958esss3s1phufc8mvr0m9uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA738wD2Inwa8OandPupKoeVYtVfQ0mRzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751499857535-7o68j5qa958esss3s1phufc8mvr0m9uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
